@@ -1,0 +1,68 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-21T23:04:38.315654580-04:00"
+from:
+  id-type: crev
+  id: DzoisrGhk8e8EbhmpGsclWzWN7S-tqowkBx-5ZA008w
+  url: "https://github.com/kspaans/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: Inventor of CREV!
+-----BEGIN CREV TRUST SIGNATURE-----
+cuIEop2TtQoUJfNmLAx685V1CM4KezPAQNoWHx6vtMNsA56miYOaU_Ee1LuX9KF7WeHi34UkzBxXrlLBRDmbDA
+-----END CREV TRUST-----
+
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-21T23:09:04.838205290-04:00"
+from:
+  id-type: crev
+  id: DzoisrGhk8e8EbhmpGsclWzWN7S-tqowkBx-5ZA008w
+  url: "https://github.com/kspaans/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: The author of CREV
+-----BEGIN CREV TRUST SIGNATURE-----
+FhzCty3aZhQ48TjTCRf_wiM9m4j7cpY3DtT8D403khJ8UOUZx3j0xnhsOVIf7HRCkY_RL95pR6s3jpJlFJpgDg
+-----END CREV TRUST-----
+
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-21T23:10:08.084336467-04:00"
+from:
+  id-type: crev
+  id: DzoisrGhk8e8EbhmpGsclWzWN7S-tqowkBx-5ZA008w
+  url: "https://github.com/kspaans/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: The author of CREV
+-----BEGIN CREV TRUST SIGNATURE-----
+mpgasxLhzN4H7r30wz15zJGS8jx3djtV9NuxnYKDm36gWSWAql7Zp62T9jkj8McXTXq5GrLYwm8uTd2slHQQCA
+-----END CREV TRUST-----
+
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-07-21T23:13:34.405584038-04:00"
+from:
+  id-type: crev
+  id: DzoisrGhk8e8EbhmpGsclWzWN7S-tqowkBx-5ZA008w
+  url: "https://github.com/kspaans/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: The author of crev.
+-----BEGIN CREV TRUST SIGNATURE-----
+SVARQMp39TgN1VYDIL0sE0W--kgSnw1lb27j6nQ4Jgdz1JeBJEhhAd8KX79JQVfZSK4Euiade-uaeJG6E_suBg
+-----END CREV TRUST-----
+
